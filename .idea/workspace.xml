@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6df3c94-f9ce-4550-bf54-11b893c39dee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laba9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_4.java" afterDir="false" />
+    <list default="true" id="b6df3c94-f9ce-4550-bf54-11b893c39dee" name="Changes" comment="Первые пять примеров">
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Example_5">
-    <configuration name="Example_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_1" />
+}</component>
+  <component name="RunManager" selected="Application.Example_14">
+    <configuration name="Example_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_10" />
       <module name="Laba9" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_2" />
+    <configuration name="Example_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_11" />
       <module name="Laba9" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_3" />
+    <configuration name="Example_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_12" />
       <module name="Laba9" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_4" />
+    <configuration name="Example_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_13" />
       <module name="Laba9" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_5" />
+    <configuration name="Example_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_14" />
       <module name="Laba9" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example_5" />
-        <item itemvalue="Application.Example_4" />
-        <item itemvalue="Application.Example_3" />
-        <item itemvalue="Application.Example_2" />
-        <item itemvalue="Application.Example_1" />
+        <item itemvalue="Application.Example_14" />
+        <item itemvalue="Application.Example_13" />
+        <item itemvalue="Application.Example_12" />
+        <item itemvalue="Application.Example_11" />
+        <item itemvalue="Application.Example_10" />
       </list>
     </recent_temporary>
   </component>
@@ -136,11 +136,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678021924866</updated>
-      <workItem from="1678021927269" duration="1816000" />
+      <workItem from="1678021927269" duration="2090000" />
+      <workItem from="1678028920472" duration="586000" />
+      <workItem from="1678119473680" duration="2844000" />
+      <workItem from="1678123894915" duration="623000" />
     </task>
+    <task id="LOCAL-00001" summary="Первые пять примеров">
+      <created>1678025858462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678025858462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первые пять примеров" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первые пять примеров" />
   </component>
 </project>
