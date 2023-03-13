@@ -19,7 +19,7 @@ public class Task_3 {
             }
             System.out.println("Сумма чисел типа Byte равна: " + sum);
         }catch (NumberFormatException n){
-            System.out.println("Ошибка! Слишком много для Byte");
+            System.out.println("Ошибка! Неверный формат или числа выходят за диапазон Byte!");
         }
 
 

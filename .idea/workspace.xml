@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6df3c94-f9ce-4550-bf54-11b893c39dee" name="Changes" comment="Доделал все примеры">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b6df3c94-f9ce-4550-bf54-11b893c39dee" name="Changes" comment="Доделал задания" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +131,7 @@
       <workItem from="1678119473680" duration="2844000" />
       <workItem from="1678123894915" duration="835000" />
       <workItem from="1678361933274" duration="17159000" />
+      <workItem from="1678644025872" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="Первые пять примеров">
       <created>1678025858462</created>
@@ -151,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678124654148</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Доделал задания">
+      <created>1678644499756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678644499756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +163,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первые пять примеров" />
     <MESSAGE value="Доделал все примеры" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доделал все примеры" />
+    <MESSAGE value="Доделал задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделал задания" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
